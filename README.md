@@ -1,5 +1,6 @@
 # GochamaAPI-Test
 ごちゃまぜAPIのテストサイトです。
+https://nu424.github.io/GochamaAPI-Test/
 ## ごちゃまぜAPIとは
 文章をごちゃまぜにするAPIです。  
 MeCabで単語に区切っていろいろやります。  
